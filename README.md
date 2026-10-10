@@ -21,7 +21,7 @@ I am looking for DevOps, Cloud and SRE roles.
 
 ### AWS 3-Tier Infrastructure with Terraform
 Production-style three-tier architecture on AWS provisioned entirely with Terraform: networking, web, application and database tiers, load balancing and security groups.
-Repository: [REPLACE-WITH-REPO-NAME](https://github.com/Tanvi-s26/aws-3tier-terraform)
+Repository:(https://github.com/Tanvi-s26/aws-3tier-terraform)
 
 ### End-to-End DevOps Pipeline on Kubernetes
 Flask service packaged as a hardened container (Gunicorn, non-root user), built and published by GitHub Actions, and deployed to Kubernetes with a rolling update strategy.
@@ -41,4 +41,4 @@ Author of a research paper on cost-based workload placement across traditional a
 
 ## Contact
 
-- LinkedIn: [REPLACE-WITH-YOUR-LINKEDIN-URL](https://www.linkedin.com/in/tanviis/)
+- LinkedIn:(https://www.linkedin.com/in/tanviis/)
